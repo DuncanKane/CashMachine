@@ -1,0 +1,11 @@
+C:\Personal_dev\CashMachine-master\CashMachine.Data\bin\Debug\CashMachine.Data.dll
+C:\Personal_dev\CashMachine-master\CashMachine.Data\bin\Debug\CashMachine.Data.pdb
+C:\Personal_dev\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.csprojAssemblyReference.cache
+C:\Personal_dev\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.csproj.CoreCompileInputs.cache
+C:\Personal_dev\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.dll
+C:\Personal_dev\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.pdb
+D:\Projects\CashMachine-master\CashMachine.Data\bin\Debug\CashMachine.Data.dll
+D:\Projects\CashMachine-master\CashMachine.Data\bin\Debug\CashMachine.Data.pdb
+D:\Projects\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.csprojAssemblyReference.cache
+D:\Projects\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.dll
+D:\Projects\CashMachine-master\CashMachine.Data\obj\Debug\CashMachine.Data.pdb
